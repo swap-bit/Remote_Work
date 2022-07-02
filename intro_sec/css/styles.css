@@ -1,0 +1,53 @@
+@font-face {
+    font-family: Epilogue;
+    src: url(https://fonts.google.com/specimen/Epilogue);
+}
+
+body {
+    font-family: Epilogue;
+}
+.card {
+    box-shadow: 1px 0px 3px 1px #888888;
+    top: 30px;
+}
+
+img.imgTop {
+    height: 80%;
+    width: 80%;
+}
+
+#btnLearnMore {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.row {
+    padding: 31px 66px 47px 76px;
+}
+
+h2 {
+    top: 65px;
+    font-size: 70px;
+}
+
+h2,
+.navbar-brand {
+    font-weight: bold;
+}
+
+.col-md-6.mt-2.leftDetails {
+    top: 50px;
+}
+p {
+    font-size: 18px;
+}
+
+.icons img {
+    margin: 107px 24px 9px -7px;
+}
+
+#btnRegister{
+    border: 2px solid black;
+    border-radius: 10px !important;
+}
